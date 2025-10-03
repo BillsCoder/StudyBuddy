@@ -12,13 +12,13 @@
 - Add, delete, and mark tasks as completed
 - Sort tasks by deadline
 - Filter tasks by status (To-Do / Completed)
-- [Bonus] Progress bar + Tags
+- [Bonus] Progress bar + Tags (Not yet)
 
 ###  Screenshots:
-> *[Add screenshot of UI once built]*
+> *[screenshot of UI]*
 
 ### Try It Live:
-> *[Link if deployed]*
+> *[deployed link]*
 
 ---
 
